@@ -4,3 +4,9 @@ android 91 app.
 
 # 下载
 https://github.com/zhangzhichaolove/91porn-android/releases
+
+# 预览
+
+![list](./list.jpg)
+![loading](./loading.jpg)
+![play](./play.jpg)
