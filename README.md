@@ -10,3 +10,6 @@ https://github.com/zhangzhichaolove/91porn-android/releases
 ![list](./list.jpg)
 ![loading](./loading.jpg)
 ![play](./play.jpg)
+
+# 免责声明
+本程序仅做学习交流之使用，如有其它用途并产生其它后果，本人概不负责。
